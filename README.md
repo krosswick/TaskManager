@@ -1,2 +1,5 @@
-# TaskManager
-This is the task manager from class
+# CS3380 Final Project
+## Ryan Rottmann
+## Kyle Rosswick
+## Perry Smith
+
