@@ -3,6 +3,10 @@
 
 This application is designed to keep track of Human Resource complaints.  You add the your name (complainer) and the name of who you want to lodge a complaint against. From there, you can accuse the respondent and describe their actions.  Once resolved, the human resouces person can delete the complaint.
 
+# Username & Password: 
+Username: test
+Password: pass
+
 # Schema
 
 #### Table: ***storage***
