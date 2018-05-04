@@ -5,6 +5,7 @@ This application is designed to keep track of Human Resource complaints.  You ad
 
 # Username & Password: 
 Username: test
+
 Password: pass
 
 # Schema
