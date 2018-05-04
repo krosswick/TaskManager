@@ -25,7 +25,7 @@ This project is designed to put file types into a table and automatically detect
 
 
 # Entity Relationship Diagram (ERD):
-![Figure 1](https://github.com/krosswick/TaskManager/blob/master/Software_Design%20(1).png "Figure 1")
+
 
 # CRUD
 
