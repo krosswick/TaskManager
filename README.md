@@ -27,7 +27,7 @@ Password: pass
 
 
 # Entity Relationship Diagram (ERD):
-![ERD Image](https://github.com/krosswick/TaskManager/blob/master/ERD.png "ERD Image")
+![ERD Image](https://github.com/krosswick/TaskManager/blob/master/ERD%20Final.png "ERD Image")
 
 # CRUD
 
